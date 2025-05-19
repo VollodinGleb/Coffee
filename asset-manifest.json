@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SomeProj/static/css/main.61b6b6be.css",
-    "main.js": "/SomeProj/static/js/main.43454f73.js",
+    "main.js": "/SomeProj/static/js/main.31eaa6e6.js",
     "static/media/mask_group.jpg": "/SomeProj/static/media/mask_group.d243429cd62c72cc802f.jpg",
     "static/media/coffee-pleasure-bg.png": "/SomeProj/static/media/coffee-pleasure-bg.6d117f0a8363c5f4f9e1.png",
     "static/media/coffee-shop-bg.png": "/SomeProj/static/media/coffee-shop-bg.7b43b8137ef2158f3b43.png",
@@ -16,10 +16,10 @@
     "static/media/beans_logo.svg": "/SomeProj/static/media/beans_logo.023b976cf584c92cb61afe5c82a0d35f.svg",
     "index.html": "/SomeProj/index.html",
     "main.61b6b6be.css.map": "/SomeProj/static/css/main.61b6b6be.css.map",
-    "main.43454f73.js.map": "/SomeProj/static/js/main.43454f73.js.map"
+    "main.31eaa6e6.js.map": "/SomeProj/static/js/main.31eaa6e6.js.map"
   },
   "entrypoints": [
     "static/css/main.61b6b6be.css",
-    "static/js/main.43454f73.js"
+    "static/js/main.31eaa6e6.js"
   ]
 }
